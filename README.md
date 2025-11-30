@@ -1,4 +1,4 @@
-COVID-19 Data Exploration – SQL Portfolio Project
+# COVID-19 Data Exploration – SQL Portfolio Project
 
 Overview:
 This portfolio project explores global COVID-19 data using SQL, combining case, death, and vaccination datasets with demographic indicators. The project demonstrates data cleaning, aggregation, and advanced analysis using joins, window functions, and calculated metrics to generate actionable insights.
