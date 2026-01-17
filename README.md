@@ -1,4 +1,3 @@
-
 # 🦠 COVID-19 Data Exploration – SQL Analytics Portfolio Project
 
 ## 📌 Project Overview
